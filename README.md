@@ -1,4 +1,8 @@
-### Hi there 👋
+**hello!**<br>
+**my name is emmie**<br>
+**i'm a college student living in Ontario**<br>
+**my preferred languages are C and assembly**<br>
+**i'm interested in systems programming**
 
 <!--
 **windowsEmmie/windowsEmmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
