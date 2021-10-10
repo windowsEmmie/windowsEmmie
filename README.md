@@ -1,12 +1,12 @@
-``hello!``<br>
-``my name is emmie``<br>
-``i'm a college student living in Ontario``<br>
-``my preferred languages are C and assembly``<br>
-``i'm interested in systems programming``
+👋``hello!``<br>
+📛``my name is em``<br>
+🍁``i'm a college student living in Ontario``<br>
+✔``my preferred languages are C and assembly``<br>
+🖥``i'm interested in systems programming``
 
-``currently i'm working through my first semester of computer engineering technology``<br>
-``outside of school i'm working on seifuku, my text editor``<br>
-``i am always learning more about C and assembly language programming``
+⚡``currently i'm working through my first semester of computer engineering technology``<br>
+📝``outside of school i'm working on seifuku, my text editor``<br>
+🔰``i am always learning more about C and assembly language programming``
 
 <!--
 **windowsEmmie/windowsEmmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
