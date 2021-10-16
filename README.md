@@ -1,7 +1,7 @@
 👋``hello!``<br>
 📛``my name is em``<br>
 🍁``i'm a college student living in Ontario``<br>
-✔``my preferred languages are C and assembly``<br>
+✔``my preferred languages are C and assembly, however i am learning golang as well``<br>
 🖥``i'm interested in systems programming``
 
 ⚡``currently i'm working through my first semester of computer engineering technology``<br>
