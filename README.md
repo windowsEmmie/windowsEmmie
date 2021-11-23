@@ -5,7 +5,7 @@
 🖥``i'm interested in systems programming``
 
 ⚡``currently i'm working through my first semester of computer engineering technology``<br>
-📝``outside of school i'm working on seifuku, my text editor``<br>
+📝``outside of school i'm working on seifuku, my text editor. i'm also working on a SECRET project``<br>
 🔰``i am always learning more about C and assembly language programming``
 
 <!--
