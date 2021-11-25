@@ -6,8 +6,8 @@
 
 ⚡``currently i'm working through my first semester of computer engineering technology``<br>
 📝``outside of school i'm working on seifuku, my text editor. i'm also working on a SECRET project``<br>
-🔰``i am always learning more about C and assembly language programming``
-
+🔰``i am always learning more about C and assembly language programming``<br>
+🎵 https://www.youtube.com/watch?v=9-yh9whcmVg
 <!--
 **windowsEmmie/windowsEmmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
