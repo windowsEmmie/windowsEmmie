@@ -3,7 +3,7 @@
 📛``my name is em``<br>
 🍁``i'm a college student living in Ontario``<br>
 ✔``my preferred languages are C and assembly, however i am learning golang as well``<br>
-🖥``i'm interested in systems programming``
+🖥``i'm interested in systems programming and operating systems``
 
 ⚡``currently i'm working through my first semester of computer programming``<br>
 📝``outside of school i'm working on seifuku, my text editor. i'm also working on a SECRET project``<br>
