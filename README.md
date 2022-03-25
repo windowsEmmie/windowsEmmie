@@ -3,9 +3,9 @@
 📛``my name is em``<br>
 🍁``i'm a college student living in Ontario``<br>
 ✔``my preferred languages are C and assembly, however i am learning golang as well``<br>
-🖥``i'm interested in systems programming and operating systems``
+🖥``i'm interested in systems programming, high performance computing, operating systems, and parallel programming``
 
-⚡``currently i'm working through my first semester of computer programming``<br>
+⚡``currently i am studying computer programming``<br>
 📝``outside of school i'm working on seifuku, my text editor. i'm also working on a SECRET project``<br>
 🔰``i am always learning more about C and assembly language programming``<br>
 🎵 https://www.youtube.com/watch?v=9-yh9whcmVg
