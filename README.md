@@ -1,3 +1,5 @@
+I haven't updated my website in over two years but in case anyone is wondering I am still alive.<br><br>
+
 🎶 🎷 🐈‍ <br>
 👋``hello!``<br>
 📛``my name is em``<br>
